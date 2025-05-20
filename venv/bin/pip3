@@ -1,4 +1,4 @@
-#!/home/michael-atokhala/src/myculture_website/venv/bin/python3
+#!/home/emma/myculture_website/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
